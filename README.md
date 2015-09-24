@@ -3,4 +3,4 @@
 
 ## Demo
 
-http://getmillipede.github.io/millipede-svg/millipede.html
+http://getmillipede.github.io/millipede-svg/
