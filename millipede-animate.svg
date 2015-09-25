@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="320" width="155">
+  <text x="26" y="15">
+    <animate attributeType="XML" attributeName="x" values="26; 39; 52; 65; 78; 65; 52; 39; 26" dur="2s" repeatCount="indefinite" />
+    ╚⊙ ⊙╝
+  </text>
+  <text x="0" y="30">
+    <animate attributeType="XML" attributeName="x" values="0; 13; 26; 39; 52; 39; 26; 13; 0" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="13" y="45">
+    <animate attributeType="XML" attributeName="x" values="13; 26; 39; 52; 39; 26; 13; 0; 13" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="26" y="60">
+    <animate attributeType="XML" attributeName="x" values="26; 39; 52; 39; 26; 13; 0; 13; 26" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="39" y="75">
+    <animate attributeType="XML" attributeName="x" values="39; 52; 39; 26; 13; 0; 13; 26; 39" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="52" y="90">
+    <animate attributeType="XML" attributeName="x" values="52; 39; 26; 13; 0; 13; 26; 39; 52" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="39" y="105">
+    <animate attributeType="XML" attributeName="x" values="26; 13; 0; 13; 26; 39; 52; 39; 26" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="26" y="120">
+    <animate attributeType="XML" attributeName="x" values="13; 0; 13; 26; 39; 52; 39; 26; 13" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="0" y="135">
+    <animate attributeType="XML" attributeName="x" values="0; 13; 26; 39; 52; 39; 26; 13; 0" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="13" y="150">
+    <animate attributeType="XML" attributeName="x" values="13; 26; 39; 52; 39; 26; 13; 0; 13" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="26" y="165">
+    <animate attributeType="XML" attributeName="x" values="26; 39; 52; 39; 26; 13; 0; 13; 26" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="39" y="180">
+    <animate attributeType="XML" attributeName="x" values="39; 52; 39; 26; 13; 0; 13; 26; 39" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="52" y="195">
+    <animate attributeType="XML" attributeName="x" values="52; 39; 26; 13; 0; 13; 26; 39; 52" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="39" y="210">
+    <animate attributeType="XML" attributeName="x" values="26; 13; 0; 13; 26; 39; 52; 39; 26" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="26" y="225">
+    <animate attributeType="XML" attributeName="x" values="13; 0; 13; 26; 39; 52; 39; 26; 13" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="0" y="240">
+    <animate attributeType="XML" attributeName="x" values="0; 13; 26; 39; 52; 39; 26; 13; 0" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="13" y="255">
+    <animate attributeType="XML" attributeName="x" values="13; 26; 39; 52; 39; 26; 13; 0; 13" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="26" y="270">
+    <animate attributeType="XML" attributeName="x" values="26; 39; 52; 39; 26; 13; 0; 13; 26" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="39" y="285">
+    <animate attributeType="XML" attributeName="x" values="39; 52; 39; 26; 13; 0; 13; 26; 39" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="52" y="300">
+    <animate attributeType="XML" attributeName="x" values="52; 39; 26; 13; 0; 13; 26; 39; 52" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+  <text x="52" y="315">
+    <animate attributeType="XML" attributeName="x" values="39; 26; 13; 0; 13; 26; 39; 52; 39" dur="2s" repeatCount="indefinite" />
+    ╚═(███)═╝
+  </text>
+</svg>
